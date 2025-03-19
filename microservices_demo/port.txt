@@ -1,0 +1,5 @@
+User service = 9001;
+url- http://localhost:9001/user/
+
+contact service = 9002;
+url- http://localhost:9002/contact/user/
